@@ -1,0 +1,2 @@
+# SLStaticLibrary
+test
